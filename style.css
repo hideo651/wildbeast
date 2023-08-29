@@ -1,0 +1,13 @@
+body {
+  background: plum;
+}
+
+.sidenav {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin: 20px;
+}
+
+.sidenav li {
+  width: 120px;
+}
